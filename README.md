@@ -2,7 +2,7 @@
 
 Want to level-up your Ruby [dev chops](http://www.quora.com/Why-does-the-phrase-dev-chops-make-me-think-of-cannibalism)?
 
-Miss the social interactions of being in a team? Would you like to [improve your communication skills](http://images.sussexpublishers.netdna-cdn.com/article-top/blogs/84326/2012/04/93794-91127.jpg)?
+Miss the social interactions of [being in a team](http://www.todayifoundout.com/wp-content/uploads/2013/12/crabs.jpg)? Would you like to [improve your communication skills](http://images.sussexpublishers.netdna-cdn.com/article-top/blogs/84326/2012/04/93794-91127.jpg)?
 
 Tired of [working on a problem](http://en.wikipedia.org/wiki/Squaring_the_circle) and getting nowhere? Is your [rubber duck](http://www.nerdmeritbadges.com/products/rubberduck) fed up of listening to you?
 
@@ -19,7 +19,7 @@ From Wikipedia: "Pair programming is an agile software development technique in 
 - Ruby, Ruby, Ruby - we'll allow you to use other technologies, e.g., Javascript :) but please focus on using Ruby as the primary language
 - Ruby doesn't just mean Rails. Feel free to work on a script, start a gem, hack on a Sinatra app, etc
 - Use Test Driven Development if you can (or at least have tests in place). Despite what some people think, we've found that TDD works well in most circumstances
-- Pair programming doesn't strictly have to be pairs. If n.modulo(2).zero? we can have a triplet group
+- Pair programming doesn't strictly have to be pairs. If !n.modulo(2).zero? we can have a triplet group
 
 ##What to Bring
 
@@ -47,7 +47,7 @@ After an introduction to the session, we'll help set up the pairings and leave y
 
 ###Simple Programming Problems
 
-There are some advantages of working on a simple programming problem instead of working on "real world" code (e.g., simplicity, "purity", likelihood of success). Feel free to try any of these:
+There are some advantages of working on a simple programming problem instead of working on "real world" code (simplicity, "purity", likelihood of success). Feel free to try any of these:
 
 - a simple calculator that takes two numbers and outputs their sum
 - a simple calculator that takes any number of numbers and outputs their sum
@@ -59,7 +59,7 @@ There are some advantages of working on a simple programming problem instead of 
 - [14 Ways To Have Fun Coding Ruby](http://rubylearning.com/blog/2010/09/22/14-ways-to-have-fun-coding-ruby/)
 - [The Gilded Rose Kata](https://github.com/jimweirich/gilded_rose_kata)
 
-##[Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
+##Pair Programming Styles
 
 Ping Pong: Person A writes a failing test, Person B makes the test pass and writes another failing test, hands back to Person A to make that test pass and write another test, ad infinitum.
 
@@ -69,12 +69,11 @@ Decide with your pair which style you would like to use beforehand. Don't be afr
 
 If all else fails and you think it's not really working with your pair, please let us know and we'll try to match you with another group.
 
-##The Golden Rule of Pairing
-
-"Do unto your pair as you would have them do unto you"
+More on pair programming styles [here](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/).
 
 ##Pairing Etiquette
 
+- The Golden Rule: "Do unto your pair as you would have them do unto you"
 - don't hog the keyboard
 - when it's your turn, remember that no-one can read your mind (it's often helpful to describe what you're doing to your pair, even if it might be obvious)
 - when it's your pair's turn, give them time and let them work at their own pace (don't grab the keyboard; sit on your hands if you need to)

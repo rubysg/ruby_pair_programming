@@ -1,4 +1,4 @@
-##About the Ruby Pair Programming Session
+## About the Ruby Pair Programming Session
 - It's a 3 hour guided session for people at all levels: beginner, intermediate or expert
 - You team up with someone else and take turns writing tests and code
 - The objective of this session is to learn during the process. Don't fret if at the end of the day you find that you haven't achieved anything "productive"
@@ -7,7 +7,7 @@
 - Different people will use different tools (editors, test frameworks, etc). You might be unfamiliar with your pair's setup, but take this as a chance to learn something new. Maybe you will like what you see!
 - Pair programming doesn't strictly have to be pairs. If !n.modulo(2).zero? we can have a triplet group
 
-##What to Bring
+## What to Bring
 
 Your laptop with Ruby and a test framework installed (Minitest comes with Ruby; many Ruby devs prefer RSpec). Your favourite editor. An open mind.
 
@@ -17,6 +17,6 @@ If you don't know where to start, don't worry. We can help you install Ruby and 
 
 We'll provide power, desks, air-conditioning and WiFi. And hopefully an enjoyable morning of coding.
 
-##Programme
+## Programme
 
 After an introduction to the session and a demo, we'll help set up the pairings and start working on a simple coding assignment. At the end of the session, we'll have a huddle and discuss what we learned during the session.
